@@ -1,1 +1,1 @@
-Analytical codes for the manuscript: Estimating real-time transmissibility of Clade Ib MPXV in Burundi
+Analytical codes for the manuscript: Disentangling temporal trends of clade Ib MPXV transmission in Burundi
